@@ -1,4 +1,4 @@
-name: example-environment
+name: obsidian-source-anillo
 channels:
   - conda-forge
 dependencies:
