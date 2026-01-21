@@ -1,6 +1,6 @@
-# Conda environment with environment.yml
+# XRF Geochemistry of the Anillo Obsidian Source (Arequipa, Peru)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arf-berkeley/obsidian-source-anillo/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2Fobsidian-geochem.ipynb)
+[![Binder](https://2i2c.mybinder.org/badge_logo.svg)](https://2i2c.mybinder.org/v2/gh/arf-berkeley/obsidian-source-anillo.git/HEAD)
 
 This Jupyter Notebook provides a visualization environment for obsidian geochemistry.
 Users can change the elements on the biplot by altering the X and Y elements at the top of the Plotly cell.
