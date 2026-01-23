@@ -7,7 +7,7 @@ http://mybinder.org/v2/gh/binder-examples/conda_environment/HEAD?filepath=index.
 ## Notes
 This notebook is intended to provide an analytical notebook for use with other geochemical analysis projects. 
 
-###⚠️ Note on Dash usage
+**⚠️ Note on Dash usage**
 
 This notebook uses `jupyter_dash` to enable Dash interactivity
 inside Binder/Jupyter environments.
