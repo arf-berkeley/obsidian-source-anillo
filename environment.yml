@@ -3,12 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - numpy
-  - psutil
-  - toolz
-  - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
+  - numpy>=1.26
+  - pandas>=2.2
+  - plotly>=5.18
+  - jupyterlab>=4.1
+  - ipywidgets>=8.1
+  - matplotlib>=3.8
